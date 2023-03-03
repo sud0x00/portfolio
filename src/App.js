@@ -41,9 +41,9 @@ function App() {
     >
       <motion.header className="row p-5" variants={headerVariants}>
         <div className="col-12">
-          <h1 className="display-3">Welcome to My Landing Page</h1>
+          <h1 className="display-3">Welcome to My Portfolio</h1>
           <motion.p className="lead" whileHover="hover" variants={buttonVariants}>
-            This is some example text.
+            I'm Sudhanva Athreya , nice to meet ya !
           </motion.p>
           <motion.button
             className="btn btn-lg btn-primary"
